@@ -13,6 +13,7 @@ https://github.com/Zhefan-Xu/isaac-go2-ros2
 
 # 22.04 install humble for go2
 https://github.com/anujjain-dev/unitree-go2-ros2/tree/humble
+https://github.com/Unitree-Go2-Robot/go2_robot
 
 # install unitree go2
 
