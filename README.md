@@ -10,11 +10,20 @@ sudo apt install ros-foxy-gazebo-plugins
 # install simulation to go2
 
 https://github.com/Zhefan-Xu/isaac-go2-ros2
+
 https://github.com/anujjain-dev/unitree-go2-ros2/tree/humble
+
 https://github.com/Unitree-Go2-Robot/go2_robot
+
 https://github.com/abizovnuralem/go2_ros2_sdk
+
 https://github.com/jizhang-cmu/autonomy_stack_go2/tree/foxy-humble
+
 https://github.com/arjun-sadananda/go2_nav2_ros2
+
+https://github.com/jkk-research/pointcloud_to_grid
+
+https://github.com/abizovnuralem/go2_omniverse
 
 # install unitree go2
 
