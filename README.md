@@ -48,7 +48,7 @@ Jackal等一系列小车就不需要
 
 
 # Fix the problem for 
-‘‘‘
+'''
 [spawner-33] [ERROR] [1706000264.234976868] [rmw_cyclonedds_cpp]: rmw_create_node: failed to create domain, error Error
 [spawner-33] 
 [spawner-33] >>> [rcutils|error_handling.c:108] rcutils_set_error_state()
@@ -63,7 +63,7 @@ Jackal等一系列小车就不需要
 [spawner-33] rcutils_reset_error() should be called after error handling to avoid this.
 [spawner-33] <<<
 [spawner-33] [ERROR] [1706000264.235045107] [rcl]: Failed to fini publisher for node: 1
-‘‘‘
+'''
 https://github.com/ros2/rmw_cyclonedds/issues/458
 
 
