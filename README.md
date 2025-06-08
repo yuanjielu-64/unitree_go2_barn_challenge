@@ -25,6 +25,9 @@ https://github.com/jkk-research/pointcloud_to_grid
 
 https://github.com/abizovnuralem/go2_omniverse
 
+https://github.com/dfloreaa/point_lio_ros2
+SLAM 用于地图
+
 # install unitree go2
 
 Need to read 
