@@ -45,7 +45,8 @@ https://github.com/unitreerobotics/unitree_sdk2
 该SDK主要用于控制真实机器人。在gazebo中写好的算法需要进行一定转换到sdk2然后进行真实控制
 Jackal等一系列小车就不需要
 
-
+# how to generate the map
+Issac gym https://github.com/leggedrobotics/terrain-generator
 
 # Fix the problem for 
 ```
