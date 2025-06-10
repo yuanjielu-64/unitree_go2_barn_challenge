@@ -32,6 +32,8 @@ https://github.com/leggedrobotics/terrain-generator terrain generator
 
 https://github.com/ANYbotics/elevation_mapping
 
+https://github.com/Teddy-Liao/walk-these-ways-go2/tree/main
+
 # install unitree go2
 
 Need to read 
