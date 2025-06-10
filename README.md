@@ -36,6 +36,8 @@ https://github.com/Teddy-Liao/walk-these-ways-go2/tree/main
 
 https://developer.nvidia.com/blog/closing-the-sim-to-real-gap-training-spot-quadruped-locomotion-with-nvidia-isaac-lab/
 
+https://www.youtube.com/watch?v=z62oU4hM1xM
+
 # install unitree go2
 
 Need to read 
