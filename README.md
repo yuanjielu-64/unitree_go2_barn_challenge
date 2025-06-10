@@ -28,6 +28,8 @@ https://github.com/abizovnuralem/go2_omniverse
 https://github.com/dfloreaa/point_lio_ros2
 SLAM 用于地图
 
+https://github.com/leggedrobotics/terrain-generator terrain generator
+
 # install unitree go2
 
 Need to read 
