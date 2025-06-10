@@ -34,6 +34,8 @@ https://github.com/ANYbotics/elevation_mapping
 
 https://github.com/Teddy-Liao/walk-these-ways-go2/tree/main
 
+https://developer.nvidia.com/blog/closing-the-sim-to-real-gap-training-spot-quadruped-locomotion-with-nvidia-isaac-lab/
+
 # install unitree go2
 
 Need to read 
