@@ -82,3 +82,9 @@ Issac gym https://github.com/leggedrobotics/terrain-generator
 https://github.com/ros2/rmw_cyclonedds/issues/458
 
 
+
+
+[x,y,yaw]  -->   [x, y, yaw, height]
+在奖励函数中，  去 贴近  他的身体高度，
+测试的最低高度 是 0.1- 0.35 
+
