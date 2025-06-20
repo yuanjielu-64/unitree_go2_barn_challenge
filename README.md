@@ -38,6 +38,10 @@ https://developer.nvidia.com/blog/closing-the-sim-to-real-gap-training-spot-quad
 
 https://www.youtube.com/watch?v=z62oU4hM1xM
 
+https://github.com/marmotlab/SATA
+
+https://github.com/leggedrobotics/legged_gym
+
 # install unitree go2
 
 Need to read 
